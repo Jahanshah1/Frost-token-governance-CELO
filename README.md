@@ -13,7 +13,7 @@ transaction on blockscout-Alfajores
 <img width="1616" alt="contract" src="https://user-images.githubusercontent.com/92823408/176918874-944d7a3b-68fd-4f86-a42d-a1ba6f73d664.PNG">
 details/features of the smart contracts 
 
-##Tech Stack used 
+## Tech Stack used 
 - Solidity 
 - OpenZeppelin
 - Javascript
