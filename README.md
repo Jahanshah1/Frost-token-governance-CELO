@@ -13,10 +13,21 @@ transaction on blockscout-Alfajores
 <img width="1616" alt="contract" src="https://user-images.githubusercontent.com/92823408/176918874-944d7a3b-68fd-4f86-a42d-a1ba6f73d664.PNG">
 details/features of the smart contracts 
 
-## Features of the smart contract
+##Tech Stack used 
+- Solidity 
+- OpenZeppelin
+- Javascript
+- Typescript
+
+## Features of the smart contracts
 - Mint
 - Burn
 - ownable 
 - votes 
+
+## Future Plans 
+- Add a UI for on chain governance and blog posting
+- provide liquidity on testnet and make the asset tradable 
+- deploy it on mainnet 
 
 ### contract address : 0x7982321eb9873db1beaa864b87822d52910747e4
