@@ -1,7 +1,7 @@
 # Frost-token-governance-CELO
 
 ## Overview 
-AN ERC20 token deployed on Alfajores test net ( CELO network ) for micro transactions and on chain governence capabilities 
+AN ERC20 token deployed on Alfajores test net ( CELO network ) for blog posting, on-chain governance and decentralised blog-posting.
 
 
 
