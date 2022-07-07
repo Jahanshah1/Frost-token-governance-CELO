@@ -1,7 +1,7 @@
 # Frost-token-governance-CELO
 
 ## Overview 
-AN ERC20 token deployed on Alfajores test net ( CELO network ) for on-chain governance and micro transactions with decentralised blog posting features.
+AN ERC20 token deployed on Alfajores test net ( CELO network ) for on-chain governance and micro transactions capabilities.
 
 
 ## screenshots 
@@ -11,6 +11,15 @@ transaction on blockscout-Alfajores
 
 <img width="1616" alt="contract" src="https://user-images.githubusercontent.com/92823408/176918874-944d7a3b-68fd-4f86-a42d-a1ba6f73d664.PNG">
 details/features of the smart contracts 
+
+## The problem it solves 
+The main purpose of this project is to provide transparency among organizations/projects in terms of liquidity and voting rights. Each contributor has the right to know if the funds are going in the right place essentially making it a trustless environment.
+
+### features of the token 
+- The funds cannot be stolen
+- The contract is immutable
+- Every owner of Frost gets a right to vote and contribute to the ecosystem 
+
 
 ## Tech Stack used 
 - Solidity 
